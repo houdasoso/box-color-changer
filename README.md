@@ -1,11 +1,1 @@
-# portfolio1
-# retaurant_menu
-# menu-de-restaurant
-# restau
-# check-point-of-algo
-# check-point-of-algo
-# check-point-of-algo
-# che-poi-of-algo
-# data_struct_check_point
-# data_struct_check_point
-# box-color-changer
+
